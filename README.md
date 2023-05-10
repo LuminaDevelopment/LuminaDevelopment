@@ -19,7 +19,7 @@ I'm a software developer currently mainly working on [Lumina client](https://lum
 
 ## 🚀 Lumina client
 
-[Lumina client](https://luminaclient.com) is an alpha stage Minecraft cheating client that focuses on providing "ghost" features to players. The client is built using Java and is constantly being improved with new features and bug fixes. We aim to provide a seamless and customizable gameplay experience for our users.
+[Lumina client](https://luminaclient.com) is a Minecraft hack client and is in its alpha stage. the client focuses on providing ghost features to players, and is made for the newest version of the game 1.19.4. The client is built for the Java edition of the game and is ran using fabric.
 
 ## 💻 Other Projects
 
